@@ -47,7 +47,7 @@ In this repo, you can find various type of applications which created with pure 
 - CLTypingLabel, IQKeyboardManager Pods used,
 - Firebase Auth and Firestore.
 
-<img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/Flash-Chat-iOS13/Screenshots/Video.gif" width=20% height=20%>   <img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/Flash-Chat-iOS13/Screenshots/welcome.png" width=20% height=20%>   <img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/Flash-Chat-iOS13/Screenshots/login.png" width=20% height=20%>   
+<img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/Flash-Chat-iOS13/Screenshots/Video.gif" width=20% height=20%>   <img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/Flash-Chat-iOS13/Screenshots/welcome.png" width=20% height=20%>  
 <img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/Flash-Chat-iOS13/Screenshots/register.png" width=20% height=20%>   <img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/Flash-Chat-iOS13/Screenshots/chat.png" width=20% height=20%>
 
 
@@ -87,7 +87,7 @@ In this repo, you can find various type of applications which created with pure 
 - Used a Public Api,
 - Click & Take most recent Currency exchange rates.
 
-<img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/CurrencyExchange/currencyExchange/begin.png" width=30% height=30%><img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/CurrencyExchange/currencyExchange/last.png" width=30% height=30%>
+<img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/CurrencyExchange/begin.png" width=30% height=30%><img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/CurrencyExchange/last.png" width=30% height=30%>
 
 
 ## Foursquare Clone
@@ -98,7 +98,7 @@ In this repo, you can find various type of applications which created with pure 
 - Observe places types, comments and address on a Map,
 - If you want, you can take directions for a ride. Simply click the button, app will open the place on Apple Maps.
 
-<img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/FoursquareClone/4Square%20SS/land.png" width=30% height=30%><img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/FoursquareClone/4Square%20SS/Home.png" width=30% height=30%><img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/FoursquareClone/4Square%20SS/save.png" width=30% height=30%><img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/FoursquareClone/4Square%20SS/map.png" width=30% height=30%>
+<img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/FoursquareClone/4Square%20SS/land.png" width=30% height=30%><img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/FoursquareClone/4Square%20SS/save.png" width=30% height=30%><img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/FoursquareClone/4Square%20SS/map.png" width=30% height=30%>
 <img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/FoursquareClone/4Square%20SS/detail.png" width=30% height=30%>
 <img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/FoursquareClone/4Square%20SS/navi.png" width=30% height=30%>
 
@@ -122,7 +122,7 @@ In this repo, you can find various type of applications which created with pure 
 - Upload your snap, see others photos but just for 24Hours then they will dissappear.
 
 <img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/SnapchatClone/ss/Land.png" width=30% height=30%><img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/SnapchatClone/ss/Upload.png" width=30% height=30%>
-<img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/SnapchatClone/ss/Feed.png" width=30% height=30%><img src="https://github.com/car4future/ios-example/blob/main/SnapchatClone/ss/Detail.png" width=30% height=30%>
+<img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/SnapchatClone/ss/Feed.png" width=30% height=30%>
 <img src="https://github.com/oguzhansaritas/iOS-swift-projects/blob/main/SnapchatClone/ss/Settings.png" width=30% height=30%>
 
 ## Crypto MVVM
