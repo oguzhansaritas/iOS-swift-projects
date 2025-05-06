@@ -1,0 +1,29 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'eV App' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for eV App
+
+ pod 'FirebaseAuth'
+  pod 'FirebaseFirestore'
+  pod 'FirebaseStorage'
+  pod 'FirebaseDatabase'
+  pod 'IQKeyboardManagerSwift', '6.5.0'
+  pod 'CLTypingLabel'
+  pod 'Mapbox-iOS-SDK', '~> 4.9'
+  pod 'MapboxMaps', '10.9.1'
+  pod 'MapboxNavigation', '~> 2.8'
+
+  target 'eV AppTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'eV AppUITests' do
+    # Pods for testing
+  end
+
+end

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ML_ImageRecognition" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="square.and.arrow.up" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="V9m-qW-ogg">
+                                <rect key="frame" x="25" y="96.000000000000028" width="340" height="376.66666666666674"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="376" id="oTj-aa-SSA"/>
+                                    <constraint firstAttribute="width" constant="340" id="tMB-oJ-aaR"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ITt-J4-hKc">
+                                <rect key="frame" x="25" y="552" width="340" height="103"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="103" id="egs-fr-2Gm"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="19"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cnj-SY-1rL">
+                                <rect key="frame" x="25" y="683" width="340" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Click"/>
+                                <connections>
+                                    <action selector="changeClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="eXv-cs-5A7"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="V9m-qW-ogg" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="25" id="7G0-Ky-w0y"/>
+                            <constraint firstItem="ITt-J4-hKc" firstAttribute="trailing" secondItem="V9m-qW-ogg" secondAttribute="trailing" id="8fm-eT-ebT"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="V9m-qW-ogg" secondAttribute="trailing" constant="25" id="D5C-or-ZdY"/>
+                            <constraint firstItem="cnj-SY-1rL" firstAttribute="trailing" secondItem="ITt-J4-hKc" secondAttribute="trailing" id="ITH-oU-XPW"/>
+                            <constraint firstItem="V9m-qW-ogg" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="50" id="LO1-sY-UC8"/>
+                            <constraint firstItem="ITt-J4-hKc" firstAttribute="leading" secondItem="V9m-qW-ogg" secondAttribute="leading" id="TAU-ee-sjb"/>
+                            <constraint firstItem="ITt-J4-hKc" firstAttribute="top" secondItem="V9m-qW-ogg" secondAttribute="bottom" constant="79" id="jJh-tV-Yc5"/>
+                            <constraint firstItem="cnj-SY-1rL" firstAttribute="top" secondItem="ITt-J4-hKc" secondAttribute="bottom" constant="28" id="txl-8G-tIK"/>
+                            <constraint firstItem="cnj-SY-1rL" firstAttribute="leading" secondItem="ITt-J4-hKc" secondAttribute="leading" id="zSx-C6-zdt"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="imageView" destination="V9m-qW-ogg" id="my2-bc-Rfo"/>
+                        <outlet property="resultLabel" destination="ITt-J4-hKc" id="IK5-PB-F82"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="101.53846153846153" y="3.5545023696682461"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="square.and.arrow.up" catalog="system" width="115" height="128"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

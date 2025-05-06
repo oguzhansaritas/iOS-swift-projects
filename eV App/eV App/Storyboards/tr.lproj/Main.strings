@@ -1,0 +1,141 @@
+
+/* Class = "UILabel"; text = "Your Car"; ObjectID = "4Bg-zg-v7A"; */
+"4Bg-zg-v7A.text" = "Your Car";
+
+/* Class = "UITextField"; placeholder = "Code"; ObjectID = "5DX-Xi-ylu"; */
+"5DX-Xi-ylu.placeholder" = "Code";
+
+/* Class = "UITextField"; placeholder = "Code"; ObjectID = "6QM-ft-Hod"; */
+"6QM-ft-Hod.placeholder" = "Code";
+
+/* Class = "UILabel"; text = "Welcome To eV App"; ObjectID = "6VA-xI-jsq"; */
+"6VA-xI-jsq.text" = "Welcome To eV App";
+
+/* Class = "UILabel"; text = "Find"; ObjectID = "7FQ-cM-b1u"; */
+"7FQ-cM-b1u.text" = "Find";
+
+/* Class = "UILabel"; text = "You"; ObjectID = "931-VC-HtM"; */
+"931-VC-HtM.text" = "You";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "B1S-qs-sTF"; */
+"B1S-qs-sTF.placeholder" = "Full Name";
+
+/* Class = "UITextField"; placeholder = "Model"; ObjectID = "EeC-Zo-4DD"; */
+"EeC-Zo-4DD.placeholder" = "Model";
+
+/* Class = "UINavigationItem"; title = "Login"; ObjectID = "GIK-sH-1Dx"; */
+"GIK-sH-1Dx.title" = "Login";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "GVw-l9-qG8"; */
+"GVw-l9-qG8.placeholder" = "Password";
+
+/* Class = "UIButton"; configuration.title = "Log Out"; ObjectID = "JG9-JR-dyX"; */
+"JG9-JR-dyX.configuration.title" = "Log Out";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JG9-JR-dyX"; */
+"JG9-JR-dyX.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Year"; ObjectID = "NBK-8x-Pwf"; */
+"NBK-8x-Pwf.placeholder" = "Year";
+
+/* Class = "UINavigationItem"; title = "Verification"; ObjectID = "NCM-6A-yey"; */
+"NCM-6A-yey.title" = "Verification";
+
+/* Class = "UIButton"; configuration.title = "Resend Code?"; ObjectID = "NwH-ha-pfA"; */
+"NwH-ha-pfA.configuration.title" = "Resend Code?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NwH-ha-pfA"; */
+"NwH-ha-pfA.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "O8E-9y-ljM"; */
+"O8E-9y-ljM.configuration.title" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "O8E-9y-ljM"; */
+"O8E-9y-ljM.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Save"; ObjectID = "OQn-oG-htt"; */
+"OQn-oG-htt.configuration.title" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OQn-oG-htt"; */
+"OQn-oG-htt.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "TJf-4d-1AN"; */
+"TJf-4d-1AN.text" = "Account";
+
+/* Class = "UIButton"; configuration.title = "Verify"; ObjectID = "VKr-wU-E41"; */
+"VKr-wU-E41.configuration.title" = "Verify";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VKr-wU-E41"; */
+"VKr-wU-E41.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Find"; ObjectID = "VfP-Mj-qyi"; */
+"VfP-Mj-qyi.title" = "Find";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Wn2-MT-oEl"; */
+"Wn2-MT-oEl.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "+ 90 546 538 1997"; ObjectID = "XJR-hI-Dea"; */
+"XJR-hI-Dea.placeholder" = "+ 90 546 538 1997";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "XhX-AI-KBK"; */
+"XhX-AI-KBK.title" = "Account";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "Xi0-zC-jto"; */
+"Xi0-zC-jto.placeholder" = "Country";
+
+/* Class = "UITextField"; placeholder = "E - Mail"; ObjectID = "ZEK-0y-YYy"; */
+"ZEK-0y-YYy.placeholder" = "E - Mail";
+
+/* Class = "UILabel"; text = "Enter Your SMS Verification Code"; ObjectID = "ZKG-Vu-mPl"; */
+"ZKG-Vu-mPl.text" = "Enter Your SMS Verification Code";
+
+/* Class = "UILabel"; text = "Enter Your SMS Verification Code"; ObjectID = "ZgE-Vy-y9O"; */
+"ZgE-Vy-y9O.text" = "Enter Your SMS Verification Code";
+
+/* Class = "UIButton"; configuration.title = "Sign In"; ObjectID = "cYi-QB-Y0I"; */
+"cYi-QB-Y0I.configuration.title" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cYi-QB-Y0I"; */
+"cYi-QB-Y0I.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "exC-PQ-pzH"; */
+"exC-PQ-pzH.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "exC-PQ-pzH"; */
+"exC-PQ-pzH.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Telephone Number"; ObjectID = "ivW-ao-cbn"; */
+"ivW-ao-cbn.placeholder" = "Telephone Number";
+
+/* Class = "UITextField"; placeholder = "Brand"; ObjectID = "mXo-nu-30u"; */
+"mXo-nu-30u.placeholder" = "Brand";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "ow8-6Q-cOd"; */
+"ow8-6Q-cOd.placeholder" = "Password";
+
+/* Class = "UIButton"; configuration.title = "Resend Code?"; ObjectID = "qMG-h9-D8G"; */
+"qMG-h9-D8G.configuration.title" = "Resend Code?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qMG-h9-D8G"; */
+"qMG-h9-D8G.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Verification"; ObjectID = "tyI-Vc-wcT"; */
+"tyI-Vc-wcT.title" = "Verification";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "v5m-9r-g4i"; */
+"v5m-9r-g4i.configuration.title" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "v5m-9r-g4i"; */
+"v5m-9r-g4i.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Verify"; ObjectID = "xMz-CE-4JF"; */
+"xMz-CE-4JF.configuration.title" = "Verify";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xMz-CE-4JF"; */
+"xMz-CE-4JF.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "E - Mail"; ObjectID = "ynu-UJ-haE"; */
+"ynu-UJ-haE.placeholder" = "E - Mail";
+
+/* Class = "UINavigationItem"; title = "Sign Up"; ObjectID = "zW5-uZ-SVr"; */
+"zW5-uZ-SVr.title" = "Sign Up";
